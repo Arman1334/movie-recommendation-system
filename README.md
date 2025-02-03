@@ -14,5 +14,5 @@ The dataset used for this project comes from **MovieLens**, containing user rati
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/arman1334/your-repository.git
    cd your-repository
